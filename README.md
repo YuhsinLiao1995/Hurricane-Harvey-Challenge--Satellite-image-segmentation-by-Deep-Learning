@@ -8,6 +8,8 @@ M.Sc. in Data Sciences and Business Analytics
 
 CentraleSupélec 
 
+Co-Author: - [@beltima] (https://www.github.com/beltima)
+
 ## PROBLEM DEFINITION 
 
 Hurricane Harvey was a destructive Category 4 storm that hit Texas and Louisiana in August 2017, resulting in severe flooding and over 100 deaths. As the world faces growing threats from natural disasters caused by climate change, our ability to prepare for and recover from them depends on our ability to improve our monitoring and assessment of ground conditions before, during, and after such events.  
